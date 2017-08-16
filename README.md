@@ -1,2 +1,2 @@
 # sanity-check
-pls
+:D
